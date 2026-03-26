@@ -1,7 +1,10 @@
-dfgdf
-dfgdfg
-gfddgf
-dfgdfg
-df
-gdf
-g
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mijn eerste website</title>
+</head>
+<body>
+  <h1>Hallo wereld!</h1>
+  <p>Dit is mijn testsite 😎</p>
+</body>
+</html>
